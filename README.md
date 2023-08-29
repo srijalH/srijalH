@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Srijal Shrestha</h1>
+<h3 align="center">frontend and backend</h3>
+
+<h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."></img>
+
+
+<p align="left">
+</p>
+
 
 <!--
 **srijalH/srijalH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
