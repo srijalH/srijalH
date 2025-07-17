@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">frontend and backend</h3>
-
+<!--
 <h3 align="left"></h3>
 <img align="right" alt="Coding" width="400" src=["https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fkanye-west-gifs&psig=AOvVaw2X94qRa84xTFIuO4XIMTRs&ust=1693365627777000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjnv9r0gIEDFQAAAAAdAAAAABAD)"></img>
-
-
-
 <p align="left">
 </p>
 
+-->
 
 <!--
 **srijalH/srijalH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
